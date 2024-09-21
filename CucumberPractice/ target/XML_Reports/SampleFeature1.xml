@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.267" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Setup Cucumber Framework in Personal PC" name="Write a basic Program" time="0.039">
+<system-out><![CDATA[
+Given Launch Browser and URL................................................passed
+And Click on My account.....................................................passed
+When Enter the user details.................................................passed
+Then Capture screenshot.....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
