@@ -30,4 +30,17 @@ public class stepDefinition1 {
 		 System.out.println("Capture screenshot");
 		 System.out.println("=======================");
 	}
+	
+	@When("Background in cucumber is verified")
+	public void background_in_cucumber_is_verified() {
+		 System.out.println("Background in cucumber");
+		 System.out.println("=======================");
+	}
+
+	@Then("Background is feature")
+	public void background_is_feature() {
+		 System.out.println("Background scenarios in Cucumber");
+		 System.out.println("=======================");
+	}
+	
 }
